@@ -11,4 +11,5 @@
 ### On the SNPE-enabled device
 * Load and execute the model using SNPE runtime.
 
-
+## Important locations:
+![image](https://github.com/abhyudaya12/Qualcomm_SNPE/assets/28287783/551d5edd-1147-4e5b-97ed-3d8fa0082fed)
