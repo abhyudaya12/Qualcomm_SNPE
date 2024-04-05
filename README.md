@@ -1,2 +1,2 @@
 # Qualcomm_SNPE
-Snapdragon Neural processing Unit
+Snapdragon Neural Processing Engine SDK
